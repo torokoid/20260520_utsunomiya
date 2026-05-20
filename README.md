@@ -373,7 +373,7 @@ p.note { display: none; }
   </picture>
 </a>
 
-<h2><span class="yellow">2日月の暗い部分には、ウサギさんが隠れています<br>肉眼では見えませんがカメラで増感すると見えました</span></h2>
+<h2><span class="yellow">2日月の暗い部分には、ウサギさんが隠れています<br>肉眼では見えませんがカメラで増感すると姿を見せてくれました</span></h2>
 <a href="20260518_103.JPG" target="_blank"><img src="20260518_103.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 

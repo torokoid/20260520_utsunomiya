@@ -463,10 +463,10 @@ p.note { display: none; }
 -->
 
 
-<br><br><br><!--
+<br><br><br>
 <h2><span class="yellow">月齢の説明リンク貼ります</span></h2>
-<h2><a href="https://starwalk.space/ja/moon-calendar" target="_blank"><span class="snow">月齢カレンダー・リンク</span></a></h2>
-
+<h2><a href="https://starwalk.space/ja/moon-calendar" target="_blank"><span class="snow">月齢カレンダー・リンク</span></a></h2><br><br>
+<!--
 <h2><span class="yellow">カシオペヤ、説明リンク貼ります</span></h2>
 <h2><a href="https://kids.yahoo.co.jp/zukan/astro/autumn/0004.html" target="_blank"><span class="snow">カシオペヤ・リンク</span></a></h2>
 

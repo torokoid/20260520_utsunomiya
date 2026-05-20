@@ -373,7 +373,7 @@ p.note { display: none; }
   </picture>
 </a>
 
-<h2><span class="yellow">2日月の暗い部分のウサギさんです</span></h2>
+<h2><span class="yellow">2日月の暗い部分には、ウサギさんが隠れています<br>肉眼では見えませんがカメラで増感すると見えました</span></h2>
 <a href="20260518_103.JPG" target="_blank"><img src="20260518_103.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 
@@ -497,10 +497,10 @@ p.note { display: none; }
 
 <h2><span class="yellow">おうし座、説明リンクします</span></h2>
     <h2><a href="https://www.kyoiku-shuppan.co.jp/docs/pages/rika/guide/astro/ousiza.html" target="_blank"><span class="snow">おうし座とは</span></a></h2>
-
+-->
 <h2><span class="yellow">ふたご座、説明リンクします</span></h2>
     <h2><a href="https://www.kyoiku-shuppan.co.jp/docs/pages/rika/guide/astro/hutagoza.html" target="_blank"><span class="snow">ふたご座とは</span></a></h2><br><br>
-
+<!--
 <h2><span class="yellow">こいぬ座、説明リンクします</span></h2>
     <h2><a href="https://www.kyoiku-shuppan.co.jp/docs/pages/rika/guide/astro/koinuza.html" target="_blank"><span class="snow">こいぬ座とは</span></a></h2><br><br>
 
